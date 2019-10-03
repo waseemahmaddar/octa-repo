@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=agriculture2.sql
+Comment=Open '/home/aiktc/Downloads/agriculture2.sql'
+Icon=application-sql
+Name[en_IN]=agriculture2.sql
+Comment[en_IN]=Open '/home/aiktc/Downloads/agriculture2.sql'
+Icon[en_IN]=application-sql
+URL=file:///home/aiktc/Downloads/agriculture2.sql
+Type=Link

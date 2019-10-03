@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=AgroSystem.java
+Comment=Open '/home/aiktc/Downloads/AgroSystem.java'
+Icon=text-x-java
+Name[en_IN]=AgroSystem.java
+Comment[en_IN]=Open '/home/aiktc/Downloads/AgroSystem.java'
+Icon[en_IN]=text-x-java
+URL=file:///home/aiktc/Downloads/AgroSystem.java
+Type=Link
